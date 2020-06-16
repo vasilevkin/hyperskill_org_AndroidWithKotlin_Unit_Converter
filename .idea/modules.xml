@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check a code/Problems-Check_a_code.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check a code/Problems-Check_a_code.iml" group="Unit_Converter/Problems-Check_a_code" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the first occurrence of the word &quot;the&quot;/Problems-Find_the_first_occurrence_of_the_word__the_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the first occurrence of the word &quot;the&quot;/Problems-Find_the_first_occurrence_of_the_word__the_.iml" group="Unit_Converter/Problems-Find_the_first_occurrence_of_the_word__the_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix a bug/Problems-Fix_a_bug.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix a bug/Problems-Fix_a_bug.iml" group="Unit_Converter/Problems-Fix_a_bug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Problems-Fourth_root.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Problems-Fourth_root.iml" group="Unit_Converter/Problems-Fourth_root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fractional part/Problems-Fractional_part.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fractional part/Problems-Fractional_part.iml" group="Unit_Converter/Problems-Fractional_part" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/House inheritance/Problems-House_inheritance.iml" group="Unit_Converter/Problems-House_inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max of four numbers/Problems-Max_of_four_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max of four numbers/Problems-Max_of_four_numbers.iml" group="Unit_Converter/Problems-Max_of_four_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pretty output/Problems-Pretty_output.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pretty output/Problems-Pretty_output.iml" group="Unit_Converter/Problems-Pretty_output" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Problems-Quadratic_equation.iml" group="Unit_Converter/Problems-Quadratic_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/copy() usage/Problems-copy___usage.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/copy() usage/Problems-copy___usage.iml" group="Unit_Converter/Problems-copy___usage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/equals() check/Problems-equals___check.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/equals() check/Problems-equals___check.iml" group="Unit_Converter/Problems-equals___check" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/toString() modification/Problems-toString___modification.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/toString() modification/Problems-toString___modification.iml" group="Unit_Converter/Problems-toString___modification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/toString() modification (1)/Problems-toString___modification__1_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/toString() modification (1)/Problems-toString___modification__1_.iml" group="Unit_Converter/Problems-toString___modification__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit_Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit_Converter.iml" group="Unit_Converter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit Converter/task/Unit_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit Converter/task/Unit_Converter-task.iml" group="Unit_Converter/Unit_Converter-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Unit_Converter/util" />
+    </modules>
+  </component>
+</project>

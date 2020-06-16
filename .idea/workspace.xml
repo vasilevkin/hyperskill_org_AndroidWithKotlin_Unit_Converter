@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2486820e-6add-4b7f-a759-89f02a6208bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1dLRiSxumItOQiOmAVEYboJsC7O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Unit_Converter-task" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="converter.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Find_the_first_occurrence_of_the_word__the_" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems-copy___usage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.TaskKt (1)" />
+        <item itemvalue="Kotlin.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2486820e-6add-4b7f-a759-89f02a6208bd" name="Default Changelist" comment="" />
+      <created>1592202514074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592202514074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1592222823106">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="419" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1592222823106" />
+    <state width="1236" height="190" key="GridCell.Tab.0.bottom" timestamp="1592309237521">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="190" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1592309237521" />
+    <state width="1236" height="190" key="GridCell.Tab.0.center" timestamp="1592309237519">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="190" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1592309237519" />
+    <state width="1236" height="190" key="GridCell.Tab.0.left" timestamp="1592309237519">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="190" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1592309237519" />
+    <state width="1236" height="190" key="GridCell.Tab.0.right" timestamp="1592309237520">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="190" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1592309237520" />
+    <state width="1236" height="236" key="GridCell.Tab.1.bottom" timestamp="1592309114446">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1592309114446" />
+    <state width="1236" height="236" key="GridCell.Tab.1.center" timestamp="1592309114445">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1592309114445" />
+    <state width="1236" height="236" key="GridCell.Tab.1.left" timestamp="1592309114445">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1592309114445" />
+    <state width="1236" height="236" key="GridCell.Tab.1.right" timestamp="1592309114445">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1592309114445" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1592304386015">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1592304386015" />
+    <state x="310" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1592281161882">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="310" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1592281161882" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Unit Converter/task/src/converter/Main.kt</url>
+          <line>143</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Unit Converter/task/src/converter/Main.kt</url>
+          <line>78</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

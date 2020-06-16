@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Check a code" />
+            <option value="$PROJECT_DIR$/Problems/Find the first occurrence of the word &quot;the&quot;" />
+            <option value="$PROJECT_DIR$/Problems/Fix a bug" />
+            <option value="$PROJECT_DIR$/Problems/Fourth root" />
+            <option value="$PROJECT_DIR$/Problems/Fractional part" />
+            <option value="$PROJECT_DIR$/Problems/House inheritance" />
+            <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
+            <option value="$PROJECT_DIR$/Problems/Pretty output" />
+            <option value="$PROJECT_DIR$/Problems/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Problems/copy() usage" />
+            <option value="$PROJECT_DIR$/Problems/equals() check" />
+            <option value="$PROJECT_DIR$/Problems/toString() modification" />
+            <option value="$PROJECT_DIR$/Problems/toString() modification (1)" />
+            <option value="$PROJECT_DIR$/Unit Converter/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
